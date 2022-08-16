@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/generic_engine_loop_04.wav-2d530e0d49edf0be9e7485576ca957e3.sample"
+
+[deps]
+
+source_file="res://assets/sound/car_4/generic_engine_loop_04.wav"
+dest_files=[ "res://.import/generic_engine_loop_04.wav-2d530e0d49edf0be9e7485576ca957e3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
